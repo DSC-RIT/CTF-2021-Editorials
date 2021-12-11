@@ -21,6 +21,6 @@ Step 3: The keyword over here is "zombie". <br>
 
 Step 4: Search for "Zombie Translator online". <br>
 
-Step 5: Type the text spoken by your friend in the box and the translation of this is the flag! <br>
+Step 5: Type the text spoken by your friend in the box and the translation of this is the flag! <br> (CTF{You got this})
 
 </details>
