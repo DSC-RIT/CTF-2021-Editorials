@@ -18,6 +18,6 @@ Step 2. Press CTRL+U to view the source page <br>
 
 Step 3. Check the body of the html code <br>
 
-Step 4. You will find the flag commented
+Step 4. You will find the flag commented (CTF{AlwaysseeSourceCode})
 
 </details>
