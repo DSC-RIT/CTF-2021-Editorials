@@ -1,7 +1,7 @@
 # Bundle of Joy
 
 ### Problem
-https://drive.google.com/file/d/18Dfw4UQrsb5IZZgY7OQp7BIkpWPcimcm/view
+https://drive.google.com/file/d/10A0Gh_w5kB8dZyzpMQ7-LZcFIpB1ag1A/view?usp=sharing
 
 ### Flag Format
 CTF{...}
@@ -18,7 +18,7 @@ Step 2. Change the file extension to .zip and extract the files. <br>
 
 Step 3. In the unzipped folder, open link.txt and go the given URL <br>
 
-Step 4. Upload any image that is neither dog nor cat to see flag (CTF{DOGS_SEE_IN_BW})
+Step 4. Upload any image that is neither dog nor cat to see flag (CTF{SNEAKY_CAT})
 
 
 </details>
